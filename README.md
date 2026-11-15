@@ -1,7 +1,8 @@
 # FourierNet
 
 [![CI](https://github.com/kapildhinwa2010-dev/FourierNet/actions/workflows/ci.yml/badge.svg)](https://github.com/kapildhinwa2010-dev/FourierNet/actions/workflows/ci.yml)
-[![CI](https://github.com/kapildhinwa2010-dev/FourierNet/actions/workflows/codeql.yml/badge.svg)](https://github.com/kapildhinwa2010-dev/FourierNet/actions/workflows/codeql.yml)
+[![CodeQL](https://github.com/kapildhinwa2010-dev/FourierNet/actions/workflows/codeql.yml/badge.svg)](https://github.com/kapildhinwa2010-dev/FourierNet/actions/workflows/codeql.yml)
+
 [![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-blue)](https://www.python.org/)
 [![PyTorch 2.0+](https://img.shields.io/badge/PyTorch-2.0%2B-ee4c2c)](https://pytorch.org/)
 [![License: MIT](https://img.shields.io/badge/license-MIT-green)](LICENSE)
