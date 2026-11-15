@@ -77,7 +77,7 @@ class TestFourierDNA:
         # B: num_freqs * 2 (not trainable)
         # net: (num_freqs*2 * hidden) + hidden + (hidden * hidden) + hidden + (hidden * hidden) + hidden + (hidden * 1) + 1
         # scale: 1
-        expected = (64 * 2 * 128) + 128 + (128 * 128) + 128 + (128 * 128) + 128 + (128 * 1) + 1
+        expected = (64 * 2 * 128) + 128 + (128 * 128) + 128 + (128 * 128) + 128 + (128 * 1) + 1 + 1
         assert params == expected
     
     def test_gradients(self):
